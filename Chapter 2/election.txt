@@ -1,0 +1,6 @@
+smith  80000
+jones  100000
+scott  75000
+washington  110000
+duffy  125000
+jacobs  67000

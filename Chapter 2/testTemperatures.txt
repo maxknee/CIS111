@@ -1,0 +1,12 @@
+January, 54 0
+February, 32 -12
+March, 67 -2
+April, 75 40
+May, 70 45
+June, 100 60
+July, 120 60
+August, 100 70
+September, 110 50
+October, 50 12
+November, 32 -12
+December, 45 -10
